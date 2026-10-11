@@ -40,8 +40,17 @@ int main() {
     // typeof dataSize
 
 
-    int age =  12;
-    cout<<sizeof(age)<<endl;
+    // int age =  12;
+    // cout<<sizeof(age)<<endl;
+
+
+    // input stream cin
+
+    // int age;
+    // cout<<"Enter a your age :"<<endl;
+
+    // cin>>age;
+    // cout<<"Your age is :"<<age<<endl;
 
     
     return 0;
