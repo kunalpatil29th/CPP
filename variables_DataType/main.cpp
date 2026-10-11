@@ -1,22 +1,48 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
-    // variables in def
-    // int age = 23;
-    // cout<<"my age is " <<age <<endl;
+    // // variables def
+    // // int age = 12;
+    // // cout<<"Your age is :"<<age<<endl;
 
-    // decleration
-
+    // // decalartion 
     // // int age;
-    // cout<<age;
-
-     
+    // // cout<<age;
 
 
+    // // defination
+
+    // // int age = 18;
+
+    // // int
+    // int count = 5;
+    // // float
+    // float share = 3.14;
+    // // char 
+    // char name = 'k';
+    // // double 
+    // double weight = 444.23;
+    // // boolean
+    // bool isMale = true;
+    // bool isChild = 1;
+    // bool isFemale = false;
+    // bool isGirl = 0;
+
+    // // print the value
+    // cout<<"print count value :"<<count<<endl;
+    // cout<<"print share value :"<<share<<endl;
+    // cout<<"print name value :"<<name<<endl;
+    // cout<<"print weight value :"<<weight<<endl;
+    // cout<<"print isMale value :"<<isMale<<endl;
+
+    // typeof dataSize
 
 
+    int age =  12;
+    cout<<sizeof(age)<<endl;
 
+    
     return 0;
 }
