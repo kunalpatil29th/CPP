@@ -9,8 +9,8 @@ int main(){
 
     // decleration
 
-    int age;
-    cout<<age;
+    // // int age;
+    // cout<<age;
 
      
 
