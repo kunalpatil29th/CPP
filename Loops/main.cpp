@@ -38,11 +38,31 @@ int main(){
 
     // while loop
     int i = 1;
-    while(i <= 10){
-        cout<<"iteration"<<i<<endl;
-        i = i+1;
-    }
+    // while(i <= 10){
+    //     cout<<i<<endl;
+    //     i = i+1;
+    // }
 
+    // do-while loop in c++
+    // do {
+    //     cout<<"Iteration"<<i<<endl;
+    //     i = i+1;
+    // }while(i <= 5);
+
+
+    // nested loop **** interview question
+    // for(int i = 1; i <= 5; i  = i+1 ); // answer / output : 1 
+    // {
+    //     cout<<i;
+    // }
+
+    // nested loop
+    for(int i = 1; i <= 3; i = i+ 1){
+        for(int j = 1; j <= 3; j = j+1){
+            cout<<i<<j<<" ";
+        }
+        cout<<endl;
+    }
 
 
 
