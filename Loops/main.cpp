@@ -36,8 +36,15 @@ int main(){
     //     cout<<"iteration"<<i<<endl;
     // }
 
+    // while loop
+    int i = 1;
+    while(i <= 10){
+        cout<<"iteration"<<i<<endl;
+        i = i+1;
+    }
 
-    
+
+
 
     return 0;
 }
